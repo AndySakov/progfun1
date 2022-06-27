@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aedf7b0-7fe7-4065-a03b-54b61c7ab05c" name="Changes" comment="" />
+    <list default="true" id="4aedf7b0-7fe7-4065-a03b-54b61c7ab05c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-forcomp/.scalafmt.conf" beforeDir="false" afterPath="$PROJECT_DIR$/06-forcomp/.scalafmt.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-forcomp/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/06-forcomp/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-forcomp/src/main/scala/forcomp/Anagrams.scala" beforeDir="false" afterPath="$PROJECT_DIR$/06-forcomp/src/main/scala/forcomp/Anagrams.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-forcomp/src/test/scala/forcomp/AnagramsSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/06-forcomp/src/test/scala/forcomp/AnagramsSuite.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
